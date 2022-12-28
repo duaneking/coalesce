@@ -1,3 +1,5 @@
+[![Go](https://github.com/duaneking/coalesce/actions/workflows/go.yml/badge.svg)](https://github.com/duaneking/coalesce/actions/workflows/go.yml)
+
 # coalesce
 Coalesce in Strongly Generic Typed GoLang.
 
